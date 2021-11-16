@@ -16,14 +16,9 @@ Ensure that you meet the following prerequisites before you attend the workshop:
 
 - Install [GitHub Desktop](https://desktop.github.com/).
 - Install [Visual Studio Code](https://code.visualstudio.com/download).
-- Send your GitHub account to one of the following emails:
+- Send your GitHub account to one of the workshop coordinators.
 
-    - igor.kazmyr@broadcom.com
-    - oleksiy.derbas@broadcom.com
-    - andrew.jandacek@broadcom.com
-    - zeibura.kathau@broadcom.com
-
-    If you don't have a GitHub account, create one on the [GitHub](https://github.com/) page.
+  **Note:** If you don't have a GitHub account, create one on the [GitHub](https://github.com/) page.
 
     You will be granted access to a private repository that you will clone and work with during the workshop.
 
