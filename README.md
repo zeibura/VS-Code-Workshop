@@ -16,7 +16,7 @@ Ensure that you meet the following prerequisites before you attend the workshop:
 
 - Install [GitHub Desktop](https://desktop.github.com/).
 - Install [Visual Studio Code](https://code.visualstudio.com/download).
-- Send your GitHub account to one of the workshop coordinators.
+- Send your GitHub account to one of the workshop coordinators who will contact you in advance.
 
   **Note:** If you don't have a GitHub account, create one on the [GitHub](https://github.com/) page.
 
