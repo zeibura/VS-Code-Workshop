@@ -1,48 +1,39 @@
-# Workshop
+# GitHub, VS Code, and Markdown Workshop
 
-This repository is intended for learning how to work with VS Code and GH repositories
+The workshop is intended for learning how to work with specific features of the Visual Studio Code IDE, GitHub Desktop, and Markdown. You will learn the following skills:
 
-## Description
+- Cloning a repository in GitHub Desktop
+- Working in a separate branch of the cloned repository
+- Using the VS Code editor and source control functionalities
+- Editing Markdown files
+- Understanding the basics of Markdown format
 
-Use this repository to practice your GitHub and Markdown skills.
+Before the actual workshop tasks, you will be presented with the introduction to these tools. You will understand why it's more beneficial to use the above-mentioned tools as opposed to only the GitHub website UI. The focus of the workshop is learn how to benefit from using VS Code in your day-to-day documentation tasks.
 
-## Getting Started
+## Prepare for Workshop
 
-Ensure that you meet the following software requirements before you proceed with the workshop:
+Ensure that you meet the following prerequisites before you attend the workshop:
 
-- Install [GitHub Desktop](https://desktop.github.com/)
-- Install [Visual Studio Code](https://code.visualstudio.com/download)
+- Install [GitHub Desktop](https://desktop.github.com/).
+- Install [Visual Studio Code](https://code.visualstudio.com/download).
+- Send your GitHub account to one of the following emails:
 
-### Clone a Repository
+    - igor.kazmyr@broadcom.com
+    - oleksiy.derbas@broadcom.com
+    - andrew.jandacek@broadcom.com
+    - zeibura.kathau@broadcom.com
 
-{TBD}
+    If you don't have a GitHub account, create one on the [GitHub](https://github.com/) page.
 
-### Installing
+    You will be granted access to a private repository that you will clone and work with during the workshop.
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+## Workshop Contents
 
-## Help
+The workshop is divided into two parts and contains the following topics:
 
-Any advice for common problems or issues.
-
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+1. Part 1
+    - Visual Studio Code
+    - GitHub Desktop
+    - GitHub Repositories: Clone
+2. Part 2
+    - Markdown Basics
