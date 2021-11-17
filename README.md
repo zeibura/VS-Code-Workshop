@@ -20,7 +20,7 @@ Ensure that you meet the following prerequisites before you attend the workshop:
 
   **Note:** If you don't have a GitHub account, create one on the [GitHub](https://github.com/) page.
 
-    You will be granted access to a private repository that you will clone and work with during the workshop.
+    You will be granted access to a workshop repository that you will clone and work with during the workshop.
 
 ## Workshop Contents
 
