@@ -8,7 +8,7 @@ The workshop is intended for learning how to work with specific features of the 
 - Editing Markdown files
 - Understanding the basics of Markdown format
 
-Before the actual workshop tasks, you will be presented with the introduction to these tools. You will understand why it's more beneficial to use the above-mentioned tools as opposed to only the GitHub website UI. The focus of the workshop is learn how to benefit from using VS Code in your day-to-day documentation tasks.
+Before the actual workshop tasks, you will be presented with the introduction to these tools. You will understand why it's more beneficial to use the above-mentioned tools as opposed to only the GitHub website UI. The focus of the workshop is to learn how to benefit from using VS Code in your day-to-day documentation tasks.
 
 ## Prepare for Workshop
 
