@@ -6,6 +6,6 @@
 
 Zeibura has worked on the following products:
 
-- Code4z
-- File Master Plus
-- InterTest and SymDump
+Code4z  
+File Master Plus  
+InterTest and SymDump
