@@ -1,6 +1,6 @@
 # Bio
 
-**Zeibura Kathau** is a technical writer who has worked at Broadcom for 4 years.
+**Zeibura Kathau** is a technical writer who has worked at *Broadcom* for 4 years.
 
 ## Products
 
