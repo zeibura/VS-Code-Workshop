@@ -9,7 +9,7 @@ A partitioned data set (PDS) is like a folder which contains individual files ca
 
 ##VSAM file
 
-A VSAM file (Virtual Storage Access Method) is a database consisting of two parts, a "data" file, consisting of records, and an "index" file. Several types of VSAM file exist and they differ in how the records are ordered. The most common are:
+A VSAM file (Virtual Storage Access Method) is a database consisting of two parts, a "data" file, consisting of records, and an "index" file. Several types of VSAM file exist and they differ in how the records are ordered and accessed. The most common are:
 
 ESDS (Entry-sequenced data set)  
 In an ESDS the records are ordered in the order they are inserted to the database.
@@ -18,4 +18,4 @@ KSDS (Key-sequenced data set)
 In a KSDS, each record is assigned a key, usually a number. The records are ordered by this key.
 
 RRDS (Relative record data set)
-An RRDS has a fixed number of record "slots", which can be empty, and each record is assigned to a specific slot when inserted.
+In an RRDS records can be inserted and accessed by their relative position to another record.
